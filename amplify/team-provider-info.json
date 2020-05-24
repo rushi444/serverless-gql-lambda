@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-serverlessgqllambda-dev-231310-authRole",
+            "UnauthRoleArn": "arn:aws:iam::148716834237:role/amplify-serverlessgqllambda-dev-231310-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::148716834237:role/amplify-serverlessgqllambda-dev-231310-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-serverlessgqllambda-dev-231310-deployment",
+            "UnauthRoleName": "amplify-serverlessgqllambda-dev-231310-unauthRole",
+            "StackName": "amplify-serverlessgqllambda-dev-231310",
+            "StackId": "arn:aws:cloudformation:us-west-2:148716834237:stack/amplify-serverlessgqllambda-dev-231310/a522e480-9d85-11ea-9bfb-02dbab669d48",
+            "AmplifyAppId": "d2z8r945mmauu4"
+        }
+    }
+}
